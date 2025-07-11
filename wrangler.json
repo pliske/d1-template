@@ -6,8 +6,8 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_id": "639e2937-8422-4e8d-8f8f-c145a986448e",
-      "database_name": "d1-template-database"
+      "database_id": "4cbd2136-2e6a-4352-8814-c024f6adb0dd",
+      "database_name": "prototype"
     }
   ],
   "observability": {
